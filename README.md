@@ -139,13 +139,13 @@ These insights help businesses design better retention strategies.
 pip install pandas numpy matplotlib
 jupyter notebook python/customer_churn_project.ipynb
 
-### **SQL**
+SQL
 Run sql/Churn_queries.sql in MySQL/PostgreSQL/SQL Server.
 
-### **Power BI**
+Power BI
 powerbi/customer_churn_dashboard.pbix
 
-### **Excel**
+Excel
 excel/customer_churn_dashboard.xlsx
 
 
